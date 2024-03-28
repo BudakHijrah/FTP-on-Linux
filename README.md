@@ -1,3 +1,3 @@
 # FTP-on-Linux
-testing files transfer protocol on linux
-implemented this project with @pondadims and ferdy.
+Simple project for testing files transfer protocol on linux
+implemented this project with [@pondadims](https://www.github.com/pondadims) and [@Ferdialwan24](https://www.github.com/Ferdialwan24) if this doesn't work please blame ferdy.
